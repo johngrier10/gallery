@@ -56,9 +56,9 @@ img{
 .profile-stats{
     display: flex;
     flex-direction: row;
-    gap: 1rem;
+    gap: 2rem;
     margin: 3rem auto;
-    justify-content: space-between;
+    justify-content: center;
     padding: 0 min(6rem, 7rem);
 }
 .profile-caption{
